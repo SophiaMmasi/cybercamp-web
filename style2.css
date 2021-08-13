@@ -1,0 +1,24 @@
+.meal{
+    font-size: 50px;
+    color: royalblue;
+}
+#yam{
+    color: navy;
+}
+.ingredients{
+    font-size: 40px;
+    color: orangered;
+}
+#items{
+    color: green
+}
+.recipe{
+    font-size: 30px;
+    color: deeppink;
+}
+#pot{
+    color: indigo;
+}
+body{
+    background-color: gold;
+}
